@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/3.6"
+        id        = "me.coolplay.apps.fortran90"
+        versionCode="10" 
+        version   = "1.0">
+
+    <name>Fortran 90</name>
+
+    <description>
+        Fortran 90 from official source, offline version.
+    </description>
+    <icon src="icon.png" />
+    <author href="http://coolplay.github.io" email="lww5879@gmail.com">
+        Wei-Wei Luo
+    </author>
+    <preference name="permissions" value="none"/>
+</widget>
